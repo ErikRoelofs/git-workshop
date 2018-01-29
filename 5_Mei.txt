@@ -1,28 +1,28 @@
 Di 1:
 Wo 2:
 Do 3:
-Vr 4:
+Vr 4: sportdag
 Za 5:
 Zo 6:
 Ma 7:
 Di 8:
 Wo 9:
 Do 10:
-Vr 11:
+Vr 11: sportdag
 Za 12:
 Zo 13:
 Ma 14:
 Di 15:
 Wo 16:
 Do 17:
-Vr 18:
+Vr 18: sportdag
 Za 19:
 Zo 20:
 Ma 21:
 Di 22:
 Wo 23:
 Do 24:
-Vr 25:
+Vr 25: sportdag
 Za 26:
 Zo 27:
 Ma 28:
