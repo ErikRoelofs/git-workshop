@@ -13,11 +13,11 @@ Do 12:
 Vr 13:
 Za 14:
 Zo 15:
-Ma 16:
-Di 17:
-Wo 18:
-Do 19:
-Vr 20:
+Ma 16: poppentheater
+Di 17: poppentheater
+Wo 18: poppentheater
+Do 19: poppentheater
+Vr 20: poppentheater
 Za 21:
 Zo 22:
 Ma 23:
