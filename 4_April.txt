@@ -1,28 +1,28 @@
 Zo 1:
 Ma 2:
 Di 3:
-Wo 4:
+Wo 4: schminken
 Do 5:
 Vr 6:
 Za 7:
 Zo 8:
 Ma 9:
 Di 10:
-Wo 11:
+Wo 11: schminken
 Do 12:
 Vr 13:
 Za 14:
 Zo 15:
 Ma 16: poppentheater
 Di 17: poppentheater
-Wo 18: poppentheater
+Wo 18: schminken poppentheater
 Do 19: poppentheater
 Vr 20: poppentheater
 Za 21:
 Zo 22:
 Ma 23:
 Di 24:
-Wo 25:
+Wo 25: schminken
 Do 26:
 Vr 27:
 Za 28:
